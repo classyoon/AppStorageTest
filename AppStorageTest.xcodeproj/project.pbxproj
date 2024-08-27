@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		CA9EF44E2C7E83EA00817F3D /* AppStorageTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA9EF44D2C7E83EA00817F3D /* AppStorageTestApp.swift */; };
 		CA9EF4502C7E83EA00817F3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA9EF44F2C7E83EA00817F3D /* ContentView.swift */; };
-		CA9EF4522C7E83EA00817F3D /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA9EF4512C7E83EA00817F3D /* Item.swift */; };
 		CA9EF4542C7E83EB00817F3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA9EF4532C7E83EB00817F3D /* Assets.xcassets */; };
 		CA9EF4572C7E83EB00817F3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA9EF4562C7E83EB00817F3D /* Preview Assets.xcassets */; };
 		CA9EF4612C7E83EB00817F3D /* AppStorageTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA9EF4602C7E83EB00817F3D /* AppStorageTestTests.swift */; };
@@ -38,7 +37,6 @@
 		CA9EF44A2C7E83EA00817F3D /* AppStorageTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppStorageTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA9EF44D2C7E83EA00817F3D /* AppStorageTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageTestApp.swift; sourceTree = "<group>"; };
 		CA9EF44F2C7E83EA00817F3D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		CA9EF4512C7E83EA00817F3D /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		CA9EF4532C7E83EB00817F3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA9EF4562C7E83EB00817F3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA9EF45C2C7E83EB00817F3D /* AppStorageTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppStorageTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 			children = (
 				CA9EF44D2C7E83EA00817F3D /* AppStorageTestApp.swift */,
 				CA9EF44F2C7E83EA00817F3D /* ContentView.swift */,
-				CA9EF4512C7E83EA00817F3D /* Item.swift */,
 				CA9EF4532C7E83EB00817F3D /* Assets.xcassets */,
 				CA9EF4552C7E83EB00817F3D /* Preview Content */,
 			);
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA9EF4502C7E83EA00817F3D /* ContentView.swift in Sources */,
-				CA9EF4522C7E83EA00817F3D /* Item.swift in Sources */,
 				CA9EF44E2C7E83EA00817F3D /* AppStorageTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
